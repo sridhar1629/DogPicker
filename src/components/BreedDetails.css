@@ -1,0 +1,18 @@
+.breed-details {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.sub-breeds {
+    padding: 10px;
+    background-color: #ffcccc;
+}
+
+.sub-breeds p {
+    font-weight: bold;
+}
+
+.sub-breeds ul {
+    list-style-type: none;
+    padding: 0;
+}

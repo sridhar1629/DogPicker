@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    cursor: pointer;
+    background-color: rgb(100, 163, 221);
+    color: white;
+    margin-bottom: 5px;
+}
+
+li:hover {
+    background-color: darkblue;
+}
+
+.selected-breed {
+    background-color: rgb(226, 125, 125);
+}
